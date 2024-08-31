@@ -1,13 +1,14 @@
-Overview
+## Overview
 user can see the list of countries and country details.
 
-Tech Stack
-Frontend: Next ,React, Typescript, MUI and React hook form
-Getting Started
-Prerequisites
+## Tech Stack
+* **Frontend:** Next ,React, Typescript, MUI and React hook form
+
+## Getting Started
+### Prerequisites
 Node.js and npm (or yarn)
 
-Installation
+### Installation
 Steps to clone the repository Go to server and client root folder 
 
 First , install npm packages
