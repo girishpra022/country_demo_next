@@ -1,6 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Overview
+user can see the list of countries and country details.
 
-## Getting Started
+Tech Stack
+Frontend: Next ,React, Typescript, MUI and React hook form
+Getting Started
+Prerequisites
+Node.js and npm (or yarn)
+
+Installation
+Steps to clone the repository Go to server and client root folder 
+
 First , install npm packages
 npm install
 
@@ -10,24 +19,8 @@ second, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the list of country in cards , where user can serach and sort the coutries
+See the list of countries
+Serach and sort the country
+on clicking the name , it redirects to country details page
 
-By clicking on country name it naviagtes to new country where it shows the more details
-
-
-
-
-
-
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
